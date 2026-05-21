@@ -1,3 +1,4 @@
+# Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com
 """测试 CrewAI 插件"""
 import os, sys, json, tempfile, subprocess
 sys.path.insert(0, os.path.dirname(__file__))
