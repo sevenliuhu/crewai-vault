@@ -1,3 +1,4 @@
+# Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com
 """
 HOMO Skill Vault — CrewAI Plugin
 把 Skill Vault 加密引擎接入 CrewAI 的 Skills 系统
